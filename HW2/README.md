@@ -15,8 +15,8 @@ python 2-3.py
 
 * Focus on front and back scene
 <div>
-<img src="images/1fg copy.JPG" width=45%>
-<img src="images/1bg copy.JPG" width=45%>
+<img src="images/1fg.jpg" width=45%>
+<img src="images/1bg.jpg" width=45%>
 <div>
 
 * Transfer into binary
